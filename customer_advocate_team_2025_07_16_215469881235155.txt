@@ -1,0 +1,62 @@
+Conversation with Customer Advocate team
+Started on July 16, 2025 at 10:12 PM Singapore time +08 (GMT+0800)
+
+---
+
+10:12 PM | Atlassian: Hello! 👋 How may our Customer Advocate Team assist you today? 
+ 
+ We're here to help you address any questions you have.
+
+10:13 PM | aariestriputranto@gmail.com: I Need Account Management Help
+
+10:13 PM | Atlassian: Cool! While we connect you, would you mind sharing any questions you may have, please?
+
+10:14 PM | aariestriputranto@gmail.com: can may am i Account due to 2FA password issue
+
+10:14 PM | Atlassian: Got it! Would you please provide your email address as well?
+
+10:14 PM | Atlassian: Lastly, how about your Cloud URL (XXXX.atlassian.net) or Support Entitlement Number?
+
+10:15 PM | aariestriputranto@gmail.com: Number of 085280122802
+
+10:15 PM | Atlassian: Thank you! A Customer Advocate will assist you shortly.
+
+10:15 PM | aariestriputranto@gmail.com: Mmhhh.
+
+10:16 PM | aariestriputranto@gmail.com: Can I just log in directly to my account?
+
+10:16 PM | Ephraim from Customer Advocate team: Hi Team, my name is Ephraim, and I'm on the billing and licensing team. It looks like you are unable to access your account. Please give me 2-3 minutes to review your account details if it's administered by your organization.
+
+10:17 PM | aariestriputranto@gmail.com: Okay Just did a factory reset on my phone
+
+10:18 PM | aariestriputranto@gmail.com: And asked for a checklist from email
+
+10:18 PM | Ephraim from Customer Advocate team: If you are still unable to log-in, I will create a separate ticket for our technical support team to further assist you.
+
+10:18 PM | aariestriputranto@gmail.com: Ju create two new accounts on the same mobile number
+
+10:20 PM | Ephraim from Customer Advocate team: Please give me 2-3 minutes to create a technical support ticket so one of our support engineers can assist you with your account.
+
+10:21 PM | aariestriputranto@gmail.com: Yes still unableb ,From OTP account login to mobile number, and others, only Gmail is requested.
+
+10:23 PM | Ephraim from Customer Advocate team: Thank you for your patience. The ticket is JST-1161582. You will receive an e-mail from one of our support engineers within the day, please make sure to check your spam or junk folder to ensure that you receive the email from support.
+
+10:28 PM | Atlassian: Just checking if you're still here! We want to make sure we can assist with any questions you have. This chat will close in 5 minutes if we don't hear from you. Contact us again via live chat or create a ticket at Atlassian Support (https://support.atlassian.com/contact/?postauth=true#/?inquiry_category=billing_licensing&reason=refunds_and_tax&support_type=customer). Thank you!
+​
+
+10:29 PM | aariestriputranto@gmail.com: Excuse me sir, I use the account aariestriputranto@gmail.com on the Guthub application,
+
+10:29 PM | Ephraim from Customer Advocate team: I also found this documentation about managing your two-step verification for your Atlassian account.
+
+Managing 2FA for your Atlassian Account (https://support.atlassian.com/atlassian-account/docs/manage-two-step-verification-for-your-atlassian-account/)
+
+10:29 PM | aariestriputranto@gmail.com: That is the verification account and my account on Guthub is aariestriputranto708@gmail.com
+
+10:31 PM | Ephraim from Customer Advocate team: Yes, I made sure to use this email aariestriputranto@gmail.com in the ticket
+
+10:32 PM | aariestriputranto@gmail.com: My username 1. AriesTriputranto 2.AriesTriputranto99
+
+10:33 PM | aariestriputranto@gmail.com: Thank you for your time
+
+---
+Exported from Customer Advocate team on July 16, 2025 at 10:34 PM Singapore time +08 (GMT+0800)

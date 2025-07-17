@@ -1,0 +1,7 @@
+)]}'
+{
+  "id": "8b051f08d551dd0f980123717845e3638a4ab6c4",
+  "repo": "chromium/src",
+  "revision": "main",
+  "path": "net/ssl/ssl_cert_request_info.cc"
+}
