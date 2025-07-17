@@ -129,3 +129,5 @@ By making a contribution to this project, I certify that:
     X-GitHub-Hook-Installation-Target-ID: 1021044364
     X-GitHub-Hook-Installation-Target-Type: repository
     }
+
+[Lisensi MIT](https://github.com/AriesTriputranto99/Open-SSL-?tab=MIT-1-ov-file)
