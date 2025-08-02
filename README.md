@@ -9,6 +9,37 @@
 -  <link rel="alternate" type="text/html" hreflang="en" href="https://datatracker.ietf.org/"/>
 -  <link rel="self" type="application/atom+xml"               href="https://datatracker.ietf.org/community/personal/aariestriputranto708@gmail.com/feed/"/></feed> 
 
+# generated 2025-08-02, Mozilla Guideline v5.7, Apache 2.4.60, OpenSSL 3.4.0, modern config
+ [ssl config Mozilla](https://ssl-config.mozilla.org/#server=apache&version=2.4.60&config=modern&openssl=3.4.0&guideline=5.7)
+ this configuration requires mod_ssl, mod_rewrite, mod_headers, and mod_socache_shmcb
+<VirtualHost *:8080>
+    RewriteEngine On
+    RewriteCond %{REQUEST_URI} !^/.well-known/acme-challenge/
+    RewriteRule ^.*$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,QSA,L]
+</VirtualHost>
+
+<VirtualHost *:443>
+    SSLEngine on
+    SSLCertificateFile      /path/to/signed_cert_and_intermediate_certs
+    SSLCertificateKeyFile   /path/to/private_key
+
+    # enable HTTP/2, if available
+    Protocols h2 http/1.1
+
+    # HTTP Strict Transport Security (mod_headers is required) (63072000 seconds)
+    Header always set Strict-Transport-Security "max-age=63072000"
+</VirtualHost>
+
+# modern configuration
+SSLProtocol             -all +TLSv1.3
+SSLOpenSSLConfCmd       Curves X25519:prime256v1:secp384r1
+SSLHonorCipherOrder     off
+SSLSessionTickets       off
+
+SSLUseStapling On
+SSLStaplingCache "shmcb:logs/ssl_stapling(32768)"
+
+
 "Judul respon 403"
 {
    Kontrol-Cache: "tanpa-cache"
@@ -20,7 +51,7 @@
    Perlindungan-X-Xss: "0"
 } 
 
-<img width="80" height="80" alt="logo_a-book-apart-color" src="https://github.com/user-attachments/assets/e9d4439a-4d58-4f9f-b720-c24229bbd438" />
+<img width="80" height="80" alt="logo_a-book-apart-color" src="[src](https://github.com/user-attachments/assets/e9d4439a-4d58-4f9f-b720-c24229bbd438)" />
   using xml an owner edits intellectual database files.
 “Isn’t it inefficient to have to type all those tags for
 every club? What good is this? It looks nice, but what can I
@@ -30,12 +61,12 @@ database/word processor/fill-in-the-blank?”
 
 ### This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title type="text">Personal I-D list of AriesTriputranto RSS Feed</title>
+<title type="text">Personal I-D list of "AriesTriputranto", RSS Feed</title>
 <subtitle type="text">Document changes</subtitle>
 <id>urn:uuid:76611d67-0323-5e66-8a9e-f0b7c2fc5731</id>
 <updated>2025-07-17T07:59:48-0700</updated>
 <link rel="alternate" type="text/html" hreflang="en" href="https://datatracker.ietf.org/"/>
-<link rel="self" type="application/atom+xml" href="https://datatracker.ietf.org/community/personal/aariestriputranto708@gmail.com/feed/"/>
+<link rel="self" type="application/atom+xml" href="[owner](https://datatracker.ietf.org/community/personal/aariestriputranto708@gmail.com/feed/) "/>
 </feed>
 
 Developer Certificate of Origin
@@ -46,7 +77,7 @@ Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
 
-<img width="272" height="272" alt="140799350-00330555-c5d9-42cc-99d6-b8ef3683c55f" src="https://github.com/user-attachments/assets/cf4cba80-c9a6-45bf-8c12-cbf6822bb899" />
+<img width="272" height="272" alt="140799350-00330555-c5d9-42cc-99d6-b8ef3683c55f" src="[attachment assets](https://github.com/user-attachments/assets/cf4cba80-c9a6-45bf-8c12-cbf6822bb899) " />
 
 ### Developer's Certificate of Origin 1.1
 
